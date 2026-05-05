@@ -1,0 +1,15 @@
+[project]
+name = "specless"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "faster-whisper>=1.2.1",
+    "numpy>=2.4.4",
+    "pyautogui>=0.9.54",
+    "pynput>=1.8.1",
+    "pyperclip>=1.11.0",
+    "requests>=2.33.1",
+    "sounddevice>=0.5.5",
+]
